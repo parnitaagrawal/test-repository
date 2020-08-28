@@ -1,0 +1,45 @@
+body{
+  background-color: black;
+}
+
+#container
+{
+  max-width: 600px;
+  margin:0 auto;
+}
+
+
+.square
+{
+  background-color: purple;
+  margin:1.66%;
+  float:left;  
+  width:30%;
+  padding-bottom: 30%;
+  display:none;
+}
+
+h1{
+  color:white;
+}
+
+.container-fluid{
+  margin:0 auto;
+}
+
+.selected
+{
+  background-color: grey;
+}
+
+#lblcolorcode
+{
+  color:white;
+  font-size:larger;
+  font-weight: bolder;
+}
+#divBar
+{
+  background-color: white;
+  color:blue;
+}
